@@ -1,0 +1,18 @@
+form .submit-message {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+    padding-left: 5px;
+    display: block;
+    margin-top: 10px;
+    max-width: 370px;
+    line-height: 18px;
+}
+
+form .submit-message.success {
+    color: #24A729;
+}
+
+form .submit-message.error {
+    color: #B02100;
+}
